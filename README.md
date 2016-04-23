@@ -22,3 +22,11 @@
   <li>Term Frequency / Inverse Document Frequency</li>
   <li>Experimental Design and A/B Tests</li>
 </ul>
+
+# Projects 
+<p>In order to practice these techniques I've built the following projects:</p>
+<ul>
+  <li>Movie recommendation system using actual user rating data</li>
+  <li>Search engine works for Wikipedia data</li>
+  <li>Spam classifier</li>
+</ul>
