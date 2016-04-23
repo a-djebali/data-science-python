@@ -3,7 +3,7 @@
 <p>This is a repository for a list of data mining and machine learning algorithms with python using <a href="https://www.continuum.io/why-anaconda">Anaconda platform</a>. There's also an entire section on machine learning with Apache Spark in order to scale up these techniques to big data analyzed on a computing cluster.</p>
 
 # Techniques covered
-<p>The following techniques used by real data scientists These techniques used by real data scientists:</p>
+<p>The following techniques used by real data scientists in the tech industry:</p>
 <ul>
   <li>Regression analysis</li>
   <li>K-Means Clustering</li>
