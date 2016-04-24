@@ -1,9 +1,11 @@
-# Data Science and Machine Learning with Python
+## Data Science and Machine Learning with Python
 
-<p>This is a repository for a list of data mining and machine learning algorithms with python using <a href="https://www.continuum.io/why-anaconda">Anaconda platform</a>. There's also an entire section on machine learning with Apache Spark in order to scale up these techniques to big data analyzed on a computing cluster.</p>
+This is a repository for a list of data mining and machine learning algorithms with python using <a href="https://www.continuum.io/why-anaconda">Anaconda platform</a>. There's also an entire section on machine learning with Apache Spark in order to scale up these techniques to big data analyzed on a computing cluster.
 
-# Techniques covered
-<p>The following techniques used by real data scientists in the tech industry:</p>
+## Covered techniques 
+
+The following techniques used by real data scientists in the tech industry:
+
 <ul>
   <li>Regression analysis</li>
   <li>K-Means Clustering</li>
@@ -23,10 +25,18 @@
   <li>Experimental Design and A/B Tests</li>
 </ul>
 
-# Projects 
-<p>In order to practice these techniques I've built the following projects:</p>
+## Projects 
+
+In order to practice these techniques I've built the following projects:
+
 <ul>
   <li>Movie recommendation system using actual user rating data</li>
   <li>Search engine works for Wikipedia data</li>
   <li>Spam classifier</li>
 </ul>
+
+## Getting started with python
+
+## Statistics and Probability Refresher, and Python Practise
+
+* Mean, median, mode and introducing numpy
