@@ -1,42 +1,40 @@
-## Data Science and Machine Learning with Python
+# Data Science & Machine Learning with Python
 
-This is a repository for a list of data mining and machine learning algorithms with python using <a href="https://www.continuum.io/why-anaconda">Anaconda platform</a>. There's also an entire section on machine learning with Apache Spark in order to scale up these techniques to big data analyzed on a computing cluster.
+This is a repository that contains a list of data mining and machine learning algorithms with python using <a href="https://www.continuum.io/why-anaconda">Anaconda platform</a>. There's also an entire section on machine learning with Apache Spark in order to scale up these techniques to big data analyzed on a computing cluster.
 
 ## Covered techniques 
 
 The following techniques used by real data scientists in the tech industry:
 
-<ul>
-  <li>Regression analysis</li>
-  <li>K-Means Clustering</li>
-  <li>Principal Component Analysis</li>
-  <li>Train/Test and cross validation</li>
-  <li>Bayesian Methods</li>
-  <li>Decision Trees and Random Forests</li>
-  <li>Multivariate Regression</li>
-  <li>Multi-Level Models</li>
-  <li>Support Vector Machines</li>
-  <li>Reinforcement Learning</li>
-  <li>Collaborative Filtering</li>
-  <li>K-Nearest Neighbor</li>
-  <li>Bias/Variance Tradeoff</li>
-  <li>Ensemble Learning</li>
-  <li>Term Frequency / Inverse Document Frequency</li>
-  <li>Experimental Design and A/B Tests</li>
-</ul>
+* Regression analysis
+* K-Means Clustering
+* Principal Component Analysis
+* Train/Test and cross validation
+* Bayesian Methods
+* Decision Trees and Random Forests
+* Multivariate Regression
+* Multi-Level Models
+* Support Vector Machines
+* Reinforcement Learning
+* Collaborative Filtering
+* K-Nearest Neighbor
+* Bias/Variance Tradeoff
+* Ensemble Learning
+* Term Frequency / Inverse Document Frequency
+* Experimental Design and A/B Tests
 
 ## Projects 
 
 In order to practice these techniques I've built the following projects:
 
-<ul>
-  <li>Movie recommendation system using actual user rating data</li>
-  <li>Search engine works for Wikipedia data</li>
-  <li>Spam classifier</li>
-</ul>
+* Movie recommendation system using actual user rating data
+* Search engine works for Wikipedia data
+* Spam classifier
 
 ## Getting started with python
 
-## Statistics and Probability Refresher, and Python Practise
+This is a <a href="http://www.tutorialspoint.com/python/index.htm">tutorial</a> designed for software programmers who need to learn Python programming language from scratch.
 
-* Mean, median, mode and introducing numpy
+## Statistics and Probability Refresher
+
+* Mean, median, mode and introducing <a href="http://www.numpy.org/">numpy</a>, <a href="https://www.scipy.org/">scipy</a> and <a href="http://matplotlib.org/">matplotlib</a>
