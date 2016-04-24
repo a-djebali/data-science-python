@@ -38,3 +38,4 @@ This is a <a href="http://www.tutorialspoint.com/python/index.htm">tutorial</a> 
 ## Statistics and Probability Refresher
 
 * Mean, median, mode and introducing <a href="http://www.numpy.org/">numpy</a>, <a href="https://www.scipy.org/">scipy</a> and <a href="http://matplotlib.org/">matplotlib</a>
+* Population, standard deviation and sample variance
